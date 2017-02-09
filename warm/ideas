@@ -1,0 +1,5 @@
+Looks like you might have to combine all of the files together in the right
+order what is in the file order. This was figured out by executing the piece
+of ruby code that was in another file. From looking at the first in the order
+it seems like it is the beginning of what would describe a .WAV file so I think
+if you combine all the files together it might make up a actual audio wav file
